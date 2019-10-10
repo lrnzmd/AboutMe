@@ -764,6 +764,7 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id done_button
 id edit_query
 id end
 id expand_activities_button
@@ -792,6 +793,7 @@ id multiply
 id name_text
 id never
 id nickname_edit
+id nickname_text
 id none
 id normal
 id notification_background
@@ -949,6 +951,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string bio
+string done
 string name
 string search_menu_title
 string status_bar_notification_info_overflow
