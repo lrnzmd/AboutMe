@@ -791,6 +791,7 @@ id middle
 id multiply
 id name_text
 id never
+id nickname_edit
 id none
 id normal
 id notification_background
@@ -951,6 +952,7 @@ string bio
 string name
 string search_menu_title
 string status_bar_notification_info_overflow
+string what_is_ypur_nickname
 string yellow_star
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
